@@ -1,0 +1,17 @@
+
+p{
+  font-family: 'Comfortaa', cursive;
+}
+h1{
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+}
+body {
+  background-color: dimgrey;
+  color: white;
+}
+label {
+}
+.boxes{
+  text-align:center;
+}
